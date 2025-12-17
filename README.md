@@ -1,6 +1,6 @@
 # Hackpad
 
-Bill of materials:
+<b> Bill of materials: </b>
 
 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB X4
 
